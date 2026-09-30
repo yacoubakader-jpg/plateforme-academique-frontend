@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Bascule le mode sombre de Tailwind d'une détection automatique
+   (préférence système) vers un pilotage manuel par classe CSS,
+   ajoutée/retirée sur <html> par ThemeContext. */
+@custom-variant dark (&:where(.dark, .dark *));

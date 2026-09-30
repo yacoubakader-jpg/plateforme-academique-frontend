@@ -1,0 +1,9 @@
+// src/components/Chargement.jsx
+
+export default function Chargement() {
+  return (
+    <div className="flex justify-center items-center py-12">
+      <div className="w-8 h-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+    </div>
+  );
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Plateforme Académique Inter-Universitaire",
+  "short_name": "Plateforme Académique",
+  "description": "Mise en relation académique inter-universitaire : projets, défis, badges.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icone-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
